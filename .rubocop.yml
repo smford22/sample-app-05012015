@@ -1,2 +1,14 @@
 Style/SingleSpaceBeforeFirstArg:
   Enabled: false
+
+EmptyLinesAroundBlockBody:
+  Enabled: false
+
+StringLiterals:
+  Enabled: false
+
+TrailingBlankLines:
+  Enabled: false
+
+TrailingWhitespace:
+  Enabled: false
